@@ -54,5 +54,8 @@ The goal of this project is to build and evaluate machine learning models that c
 The project demonstrates how ensemble and probabilistic machine learning models can effectively handle complex genetic data and provide accurate predictions. These models highlight the potential of machine learning in early diagnosis and personalized medicine.
 
 ---
+## Conference
+
+" Machine Learning Prognostics for Genetic Disorder Prediction" was Presented in International Conference on Intelligent Systems and Digital Systems - ICISD'25 on 6th May 2025. The conference was a collaborative effort with Cardiff Metropolitan University in Wales, UK.
 ## Authors
 - Prannaveshwaaran 
